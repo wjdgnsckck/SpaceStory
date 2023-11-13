@@ -18,9 +18,11 @@
 <img src="https://github.com/minj2306/ezenRentCarProject/assets/135796939/b9abc4cf-a829-48d6-808f-2921af440686" >
 <h1>6. EER 다이어그램</h1></br>
 <img src="https://user-images.githubusercontent.com/105342655/282341812-32d17b78-a054-4d7f-8519-313cdf730e03.png">
-<h1>6. 클래스 다이어그램(리뷰)</h1></br>
-<img src="https://user-images.githubusercontent.com/105342655/282341812-32d17b78-a054-4d7f-8519-313cdf730e03.png">
-<h1>6. 클래스 다이어그램(리뷰)</h1></br>
-<img src="https://user-images.githubusercontent.com/105342655/282341812-32d17b78-a054-4d7f-8519-313cdf730e03.png">
-<h1>6. 클래스 다이어그램(리뷰)</h1></br>
+<h1>7. 클래스 다이어그램</h1></br>
+<h2>7-1 클래스 다이어그램(리뷰)</h2></br>
+<img src="https://user-images.githubusercontent.com/105342655/282342238-812bdb38-2531-453e-998c-453f5251094c.png">
+<h2>7-2 클래스 다이어그램(채팅)</h2></br>
+<img src="https://user-images.githubusercontent.com/105342655/282342265-2c571560-531c-40f7-be52-8054ab89314b.png">
+<h2>7-3 클래스 다이어그램(게시물)</h2></br>
+<img src="https://user-images.githubusercontent.com/105342655/282342328-fbc9b88a-6ce0-40d0-b54f-ef4bf17c9753.png">
 
