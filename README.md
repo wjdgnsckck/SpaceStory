@@ -15,6 +15,6 @@
 <li>김영태 캔바 , PPT - 카카오 지도API 커스텀, 게시판 유저 통계 구현</li>
 <li>김찬희 작업기록(JIRA) - 카테고리 종류마다 다른 마커 구현,게시판 모달 창 구현</li>
 <h1>5. 사용 언어 및 툴</h1></br>
-<img src="https://github.com/minj2306/ezenRentCarProject/assets/135796939/b9abc4cf-a829-48d6-808f-2921af440686" >
+<img src="[https://github.com/minj2306/ezenRentCarProject/assets/135796939/b9abc4cf-a829-48d6-808f-2921af440686](https://user-images.githubusercontent.com/105342655/282340486-bea27179-cc60-41bc-b35a-bfd279377647.png)" >
 <h1>6. EER 다이어그램</h1></br>
 <img src="https://github.com/minj2306/ezenRentCarProject/assets/135796939/6fe0f1ec-d338-4950-b7c5-1ca24f2bb10b">
