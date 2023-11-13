@@ -17,4 +17,10 @@
 <h1>5. 사용 언어 및 툴</h1></br>
 <img src="https://github.com/minj2306/ezenRentCarProject/assets/135796939/b9abc4cf-a829-48d6-808f-2921af440686" >
 <h1>6. EER 다이어그램</h1></br>
-<img src="https://github.com/minj2306/ezenRentCarProject/assets/135796939/6fe0f1ec-d338-4950-b7c5-1ca24f2bb10b">
+<img src="https://user-images.githubusercontent.com/105342655/282341812-32d17b78-a054-4d7f-8519-313cdf730e03.png">
+<h1>6. 클래스 다이어그램(리뷰)</h1></br>
+<img src="https://user-images.githubusercontent.com/105342655/282341812-32d17b78-a054-4d7f-8519-313cdf730e03.png">
+<h1>6. 클래스 다이어그램(리뷰)</h1></br>
+<img src="https://user-images.githubusercontent.com/105342655/282341812-32d17b78-a054-4d7f-8519-313cdf730e03.png">
+<h1>6. 클래스 다이어그램(리뷰)</h1></br>
+
